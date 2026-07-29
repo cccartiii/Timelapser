@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Timelapser Logo" width="140">
+<img src="assets/logo.png" alt="Timelapser Logo" width="150">
 
 # Timelapser
 
 A lightweight desktop application that records your screen while you draw and automatically generates smooth timelapse videos with efficient storage usage.
+
+<img src="assets/demo.gif" alt="Timelapser Demo" width="900">
+
+<br>
 
 [Download](../../releases/latest) • [Report a Bug](../../issues) • [Request a Feature](../../issues)
 
@@ -14,13 +18,11 @@ A lightweight desktop application that records your screen while you draw and au
 
 ## About
 
-Timelapser is a lightweight desktop application designed for digital artists who want to capture their creative process without filling their storage with massive screen recordings.
+Timelapser is a desktop application built for artists who want to record their drawing process without dealing with massive video files.
 
-Simply start recording, draw as you normally would, stop recording, and let Timelapser generate a smooth timelapse of your artwork.
+Instead of keeping hours of continuous recordings, Timelapser captures your screen efficiently and automatically generates a smooth timelapse when you're done. Simply start recording, draw normally, stop recording, and export your timelapse.
 
-> **Note**
->
-> Timelapser is currently in early development. The interface and features will continue to improve over time.
+This project is currently in early development, and both the interface and features will continue to improve over time.
 
 ---
 
@@ -28,42 +30,41 @@ Simply start recording, draw as you normally would, stop recording, and let Time
 
 - Automatic screen recording while drawing
 - Smooth timelapse generation
-- Efficient storage usage
-- Lightweight and easy to use
-- Works with most drawing applications
+- Storage-efficient recording
+- Lightweight desktop application
+- Simple and easy-to-use interface
 - Customizable recording settings
+- Works with most drawing software
 
 ---
 
 ## Installation
 
-1. Download the latest release from the Releases page.
-2. Run `Timelapser.exe`.
-3. Start recording.
-4. Draw normally.
-5. Stop recording and export your timelapse.
-
----
-
-## Demo
-
-A demo video is available in the `assets/videos` folder.
+1. Go to the latest Release.
+2. Download `Timelapser.exe`.
+3. Launch the application.
+4. Start recording.
+5. Draw normally.
+6. Stop recording and generate your timelapse.
 
 ---
 
 ## Roadmap
 
 - Improved user interface
-- Additional export options
+- More export options
 - Better performance
-- More recording settings
-- Quality improvements
+- Custom FPS settings
+- Additional recording options
+- More customization
 
 ---
 
 ## Contributing
 
-Feedback, bug reports, feature requests, and pull requests are welcome.
+Contributions, bug reports, feature requests, and suggestions are always welcome.
+
+If you find a bug or have an idea for a new feature, feel free to open an Issue.
 
 ---
 
@@ -75,8 +76,8 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-Created by Cartifuture
+Developed by Cartifuture
 
-If you enjoy Timelapser, consider giving the repository a star.
+If you like Timelapser, consider giving this repository a ⭐.
 
 </div>
