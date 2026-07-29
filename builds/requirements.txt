@@ -1,0 +1,17 @@
+# Windows Timelapse Recorder dependencies (Windows x64, Python >= 3.9)
+#
+# NOTE: windows-capture declares `opencv-python` as a dependency, but we only use
+# cv2 for array resizing, never for its GUI. Install it with --no-deps so the
+# smaller opencv-python-headless wheel satisfies the `import cv2` instead:
+#
+#     pip install -r requirements.txt
+#     pip install --no-deps windows-capture==2.0.0
+#
+# build.ps1 does both steps for you.
+
+numpy>=1.24
+opencv-python-headless>=4.8
+imageio-ffmpeg>=0.5
+psutil>=5.9
+keyboard>=0.13
+Pillow>=10.0
