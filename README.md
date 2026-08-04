@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png?v=2" alt="Timelapser Logo" width="110">
+<img src="assets/logo2.png?v=2" alt="Timelapser Logo" width="110">
 
 # 🎬 Timelapser
 
